@@ -1,0 +1,27 @@
+.container {
+  background-color: #eeeeee;
+  padding: 1rem;
+}
+
+p {
+  margin: 0;
+}
+.section-title {
+  margin-top: 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row--indent {
+  margin-left: 1rem;
+}
+
+.row__title {
+  font-weight: 700;
+}
+
+.row__subtitle {
+}
